@@ -1,0 +1,35 @@
+{
+  "name": "polygon-backend",
+  "version": "1.0.0",
+  "description": "Polygon backend implemented in Typescript for Node.js",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "prepare": "npm run build",
+    "build": "tsc",
+    "dev": "nodemon --exec node --loader ts-node/esm src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flechaa/polygon-backend.git"
+  },
+  "keywords": [
+    "polygon",
+    "pokemon"
+  ],
+  "author": "Flechaa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flechaa/polygon-backend/issues"
+  },
+  "homepage": "https://github.com/Flechaa/polygon-backend#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1",
+    "typed-emitter": "^2.1.0",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@na-ji/pogo-protos": "^2.88.0"
+  }
+}
