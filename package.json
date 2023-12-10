@@ -24,12 +24,12 @@
   },
   "homepage": "https://github.com/Flechaa/polygon-backend#readme",
   "devDependencies": {
-    "nodemon": "^3.0.1",
-    "ts-node": "^10.9.1",
+    "nodemon": "^3.0.2",
+    "ts-node": "^10.9.2",
     "typed-emitter": "^2.1.0",
-    "typescript": "^5.2.2"
+    "typescript": "^5.3.3"
   },
   "dependencies": {
-    "@na-ji/pogo-protos": "^2.88.0"
+    "@na-ji/pogo-protos": "^2.100.0"
   }
 }
