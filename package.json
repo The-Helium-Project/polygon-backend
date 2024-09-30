@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Flechaa/polygon-backend.git"
+    "url": "git+https://github.com/The-Helium-Project/polygon-backend.git"
   },
   "keywords": [
     "polygon",
@@ -20,9 +20,9 @@
   "author": "Flechaa",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Flechaa/polygon-backend/issues"
+    "url": "https://github.com/The-Helium-Project/polygon-backend/issues"
   },
-  "homepage": "https://github.com/Flechaa/polygon-backend#readme",
+  "homepage": "https://github.com/The-Helium-Project/polygon-backend#readme",
   "devDependencies": {
     "nodemon": "^3.0.2",
     "ts-node": "^10.9.2",
